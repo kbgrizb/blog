@@ -1,5 +1,6 @@
 ---
 layout: post
+author: K. B. Grisby
 ---
 
 This is my first post on this blog. It was pretty easy to set all of this up. This should be a
