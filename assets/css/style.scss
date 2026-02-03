@@ -3,5 +3,15 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
+
+*{
+  font-family: 'Times New Roman', Times, serif;
+  color: cadetblue;
+}
+
+h1{
+  color: teal;
+}
+
